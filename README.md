@@ -1,0 +1,1 @@
+# pamap2-activity-classification
